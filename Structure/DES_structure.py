@@ -1,5 +1,5 @@
-from DEF import *
-from Tables import *
+from Structure.DEF import *
+from Tables.Tables import *
 
 class DES_structure:
 
