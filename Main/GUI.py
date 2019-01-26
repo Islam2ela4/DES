@@ -1,7 +1,7 @@
 from tkinter import *                                                                                                   #k = 'AABB09182736CCDD'
 from tkinter import messagebox
-from DES_structure import *                                                                                             #m = '123456ABCD132536'
-from DEF import *                                                                                                       #c = 'c0b7a8d05f3a829c'
+from Structure.DES_structure import *                                                                                             #m = '123456ABCD132536'
+from Structure.DEF import *                                                                                                       #c = 'c0b7a8d05f3a829c'
 
 class GUI:
 
