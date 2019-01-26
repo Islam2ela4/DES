@@ -1,4 +1,4 @@
-from Tables import *
+from Tables.Tables import *
 
 class DEF:
 
