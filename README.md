@@ -1,5 +1,7 @@
-The DES Algorithm Illustrated
-by J. Orlin Grabbe
+						The DES Algorithm Illustrated
+						
+						      by J. Orlin Grabbe
+						      
 The DES (Data Encryption Standard) algorithm is the most widely used encryption algorithm in the world. For many years, and among many people, "secret code making" and DES have been synonymous. And despite the recent coup by the Electronic Frontier Foundation in creating a $220,000 machine to crack DES-encrypted messages, DES will live on in government and banking for years to come through a life- extending version called "triple-DES."
 
 How does DES work? This article explains the various steps involved in DES-encryption, illustrating each step by means of a simple example. Since the creation of DES, many other algorithms (recipes for changing data) have emerged which are based on design principles similar to DES. Once you understand the basic transformations that take place in DES, you will find it easy to follow the steps involved in these more recent algorithms.
@@ -472,6 +474,3 @@ Alfred J. Menezes, Paul C. van Oorschot, and Scott A. Vanstone, Handbook of Appl
 
 -30-
 This article appeared in Laissez Faire City Times, Vol 2, No. 28.
-
-Homepage: http://orlingrabbe.com/ 
-Laissez Faire City Times: http://zolatimes.com/
